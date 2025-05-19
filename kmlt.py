@@ -1,7 +1,7 @@
-print (" 🚗🚕🚙🚐Seja Bem vindo 🚗🚕🚙🚐 ")
-print ( "Esse programa soma quantos km você fez por litro  ;) ")
-km =float(input("Digite a quantidade de Km: "))
-lt = float(input("Digite quantos litros você gastou: "))
-quantidade= km/lt
-print (f"O comsumo do seu carro por litro percorridos e de ‼️ : {quantidade} ")
-print (" 😃😃 Obrigado por usar o somador de KM é volte sempre! 😃😃 ")
+print ("🚗​🚗​Seja bem vindo ao conta de KMs!🚗​🚗​")
+QuantidadeKM= float(input("Me informe quantos KMs foram percorridos: ​🕥​ "))
+Litros = float(input("Digite a quantidade de Litros consumidos: ​​⛽​ "))
+consumo=QuantidadeKM/Litros
+print (f"O consumo do seu carro por litros percorridos e de:  {consumo}")
+print ("Obrigrado por utilizar o contabilizador de KMs!")
+print("Tenha um excelente dia!​ 😄​👋​")
